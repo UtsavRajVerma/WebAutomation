@@ -12,4 +12,7 @@ Wait and see the browser scrolling automatically and liking every picture on Ins
 <img src="https://instazood.com/wp-content/uploads/2019/04/The-Wrong-Beliefs-on-Using-Instagram-Bots-and-Instagram-Automation-Tools3-1024x576.jpg" height="300px" width="600px">
 </p>
 
+## Known Issues
+If you already liked the photo, the crawler will unlike it.
+
 
