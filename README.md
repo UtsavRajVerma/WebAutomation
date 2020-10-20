@@ -1,6 +1,6 @@
 ## Instagram Automation
 
-This application is used to like posts on Instagram. Liking many posts, eventually leads to better reach of your own Instagram profile because as we know people get notified whenever someone likes their post. Many a times they like back and follow you too which helps grow your profile.
+This application allows the user to like a certain number of Instagram media on a given Instagram webpage. Liking many posts, eventually leads to better reach of your own Instagram profile because as we know people get notified whenever someone likes their post. Many a times they like back and follow you too which helps grow your profile.
 
 <p align="center">
 <img src="https://www.wikihow.com/images/thumb/4/43/Instagram-login-page-2020.png/460px-Instagram-login-page-2020.png.webp">
