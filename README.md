@@ -8,7 +8,7 @@ This application allows the user to like a certain number of Instagram media on 
 Wait and see the browser scrolling automatically and liking every post on Instagram!
 
 <p align="center">
-<img src="https://instazood.com/wp-content/uploads/2019/04/The-Wrong-Beliefs-on-Using-Instagram-Bots-and-Instagram-Automation-Tools3-1024x576.jpg" height="300px" width="600px">
+<img src="https://hackernoon.com/hn-images/1*DdqNd3ClUG7lYXoqfKJo2A.gif" height="300px" width="600px">
 </p>
 
 ## Known Issues
