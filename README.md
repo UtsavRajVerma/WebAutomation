@@ -1,5 +1,4 @@
 ## Instagram Automation
-
 This application allows the user to like a certain number of Instagram media on a given Instagram webpage. Liking many posts, eventually leads to the better reach of your own Instagram profile because as we know people get notified whenever someone likes their post. Many times they like back and follow you too which helps grow your profile.
 
 <p align="center">
